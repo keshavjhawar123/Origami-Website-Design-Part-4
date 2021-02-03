@@ -1,0 +1,170 @@
+h1{
+    border:solid;
+    color: #ffff00;
+    padding: 20px;
+}
+
+.header{
+  background-color: red;
+  display: flex;
+  justify-content: center; 
+  border: black; 
+}
+.menu{
+    padding: 30px;
+}
+.menu a{
+    text-decoration: none;
+}
+.about{
+    background-color: #ffff00;
+    color: #4169e4;
+    border: solid;
+    display: flexbox;
+    padding: 20px;
+}
+body{
+    color: #ffffff;
+    font-size: 17px;
+}
+.menu:hover a{
+    color:blue;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: green;
+}
+.camel{
+    margin: 10px;
+    padding: 30px;
+    border: solid;
+    background-color: #5f9ea0;
+    text-align: center;
+}
+.camel li{
+opacity: 0;
+}
+.camel:hover li{
+    opacity: 1;
+}
+.camel p{
+    opacity: 0;
+}
+.camel:hover p{
+    opacity: 1;
+}
+.camel:hover{
+    transform: scale(1.1);
+}
+.chameleon{
+    margin: 10px;
+    padding: 30px;
+    border: solid;
+    background-color: #5f9ea0;
+    text-align: center;
+}
+.chameleon li{
+opacity: 0;
+}
+.chameleon:hover li{
+    opacity: 1;
+}
+.chameleon p{
+    opacity: 0;
+}
+.chameleon:hover p{
+    opacity: 1;
+}
+.chameleon:hover{
+    transform: scale(1.1);
+}
+.pigeon{
+    margin: 10px;
+    padding: 30px;
+    border: solid;
+    background-color: #5f9ea0;
+    text-align: center;
+}
+.pigeon li{
+opacity: 0;
+}
+.pigeon:hover li{
+    opacity: 1;
+}
+.pigeon p{
+    opacity: 0;
+}
+.pigeon:hover p{
+    opacity: 1;
+}
+.pigeon:hover{
+    transform: scale(1.1);
+}
+.bear{
+    margin: 10px;
+    padding: 30px;
+    border: solid;
+    background-color: #5f9ea0;
+    text-align: center;
+}
+.bear li{
+opacity: 0;
+}
+.bear:hover li{
+    opacity: 1;
+}
+.bear p{
+    opacity: 0;
+}
+.bear:hover p{
+    opacity: 1;
+}
+.bear:hover{
+    transform: scale(1.1);
+}
+.panda{
+    margin: 10px;
+    padding: 30px;
+    border: solid;
+    background-color: #5f9ea0;
+    text-align: center;
+}
+.panda li{
+opacity: 0;
+}
+.panda:hover li{
+    opacity: 1;
+}
+.panda p{
+    opacity: 0;
+}
+.panda:hover p{
+    opacity: 1;
+}
+.panda:hover{
+    transform: scale(1.1);
+}
+.cicada{
+    margin: 10px;
+    padding: 30px;
+    border: solid;
+    background-color: #5f9ea0;
+    text-align: center;
+}
+.cicada li{
+opacity: 0;
+}
+.cicada:hover li{
+    opacity: 1;
+}
+.cicada p{
+    opacity: 0;
+}
+.cicada:hover p{
+    opacity: 1;
+}
+.cicada:hover{
+    transform: scale(1.1);
+}
